@@ -11,9 +11,7 @@ namespace LeetCodeProblems
     {
         static void Main(string[] args)
         {
-            var solution = new _020_ValidParentheses_Easy();
-            Console.WriteLine(solution.isValid("()[]{}").ToString());
-            Console.Read();
+            
         }
     }
 }
